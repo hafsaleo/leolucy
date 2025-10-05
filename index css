@@ -1,0 +1,26 @@
+header{
+  background:linear-gradient(
+    to left,lightblue,#8089D2);
+border:2px; solid black}
+h1{
+  ppadding:60px;
+  margin-bottom:50px;
+  border:60px blue;
+}
+
+p{font-faimly:times new roman,arial; font-size:20px;
+color:pink;}
+
+table{table
+padding:10px;
+margin-bottom:20px;
+width:70px;
+background-color:#DAC4FF;
+style:dotted;
+border:5px solid purple;
+border-collapse:collapse;
+border-withd:5px;
+}
+
+nav a:hover{
+  background-color:blue;}
