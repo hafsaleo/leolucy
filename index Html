@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>WELCOME TO DM6032</title>
+  </head>
+  <body>
+    <header>
+      <h1>welcome to DM6032</h1>
+      <p>My name is Hafsa Altairi
+     <br>I am a Digital Markting Student
+      <hr></p>
+    <p>202305094@student.polytechnic.bh
+    </p>
+    </hr>
+    </header>
+  <nav id=nav >
+    <ul>
+      <li><a href="About me "> About me </a>
+      <li><a href="My projects">My projects</a>
+        <li><a href="Contact me"> Contact me</a>
+    </ul>
+  </nav>
+   <hr> 
+   <table border="5" cellpadding="10">
+      <tr>
+        <th>sunday</th>
+        <th>monday</th>
+        <th>Tuesday</th>
+        <th>wendnesday</th>
+        <th>thursday</th>
+      </tr>
+      <tr>
+      <td> 10:00 - 11:50  </td>
+     <td> 8:00 - 9:50 </td>
+     <td> 2:00 - 3:50 </td>
+    <td> 10:00 - 11:50 </td>
+     <td> 8:00 - 9:50 </td>
+      </tr> 
+     <tr>
+       <td> 12:00: - 1:50  </td>
+     <td> - </td>
+     <td> - </td>
+    <td> 2:00 - 3:50 </td>
+     <td> - </td>
+      <tr>
+    <td> -  </td>
+     <td> - </td>
+     <td> - </td>
+    <td> 4:00 - 5:50 </td>
+     <td> - </td>
+     </tr>
+    </table>
+    <hr>
+    <section id="media">
+    <h2>Video</h2>"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pe1KrkiBDzE?si=qsasqyjD2rmQwn8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
+</hr>
+  <footer>
+    <p>2025. All rights reserved</p>
+  </footer>
+  </body>
+</html>
